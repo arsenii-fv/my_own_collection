@@ -1,0 +1,6 @@
+---
+# tasks file for create-file-role
+- name: Creating a file by path
+  my_own_module:
+    path_n: "{{ default_file }}"
+    text_f: "{{ default_text }}"

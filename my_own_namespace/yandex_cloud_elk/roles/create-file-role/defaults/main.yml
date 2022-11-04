@@ -1,0 +1,4 @@
+---
+# defaults file for create-file-role
+default_file: "/tmp/file.txt"
+default_text: "first line"
